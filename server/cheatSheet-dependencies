@@ -1,0 +1,8 @@
+Package	Purpose
+bcrypt	Password-specific hashing that protects your password from being stored in plain text
+dotenv	Allows developers to safely store configuration data
+express	A web framework for Node.js that allows routing and processing HTTP requests
+jsonwebtoken	A compact and self-contained way for securely transmitting information between parties
+pg	A dependency for working with Postgres
+pg-hstore	A dependency for working with Postgres for advanced functions with Postgres
+sequelize	A tool that allows us to map models, pass data, and complete queries with a database
